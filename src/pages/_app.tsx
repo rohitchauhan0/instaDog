@@ -33,18 +33,8 @@ export default function MyApp({ Component, pageProps }: AppProps): JSX.Element {
 			<DefaultSeo
 				title="InstaDog"
 				description="A dog-themed Instagram clone powered by an API, showcasing adorable images and utilizing mock data"
-				titleTemplate="%s • Nik Schaefer"
-				openGraph={{
-					type: "website",
-					locale: "en",
-					url: "insta.nikschaefer.com",
-					site_name: "InstaDog",
-				}}
-				twitter={{
-					handle: "@Nik_Schaefer",
-					site: "insta.nikschaefer.com",
-					cardType: "summary_large_image",
-				}}
+				titleTemplate="%s • Rohit chauhan"
+				
 			/>
 
 			<Header />
