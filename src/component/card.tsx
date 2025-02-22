@@ -54,7 +54,7 @@ export function Card({
 					/>
 					<a
 						className="ml-2 hover:text-gray-500 transition-colors"
-						href="https://github.com/NikSchaefer/InstaDog"
+						href="https://github.com/rohitchauhan0/instaDog"
 					>
 						<Github />
 					</a>

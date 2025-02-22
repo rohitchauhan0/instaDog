@@ -4,7 +4,7 @@ export default function Main(): JSX.Element {
 			<h1 className="text-xl font-semibold tracking-wider">InstaDog</h1>
 			<a
 				className="hover:rotate-12 transition-transform"
-				href="https://github.com/NikSchaefer/InstaDog"
+				href="https://github.com/rohitchauhan0/instaDog"
 			>
 				<img
 					className="w-12 h-12"
